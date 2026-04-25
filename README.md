@@ -8,8 +8,6 @@ A complete Chess game built in Java using Swing with move validation, special mo
 - Legal move validation
 - Castling support
 - En Passant move
-- Pawn Promotion
-- Check detection
 - Clean and simple interface
 
 ## Technologies Used
