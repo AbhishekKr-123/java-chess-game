@@ -27,8 +27,8 @@ A complete Chess game built in Java using Swing with move validation, special mo
 1. Clone this repository
 2. Open project in IntelliJ IDEA / Eclipse / VS Code
 3. Compile and run:
-  javac *.java
-  java ChessGameUI
+  - javac *.java
+  - java ChessGameUI
 
 ## Future Improvements
 - Checkmate detection
